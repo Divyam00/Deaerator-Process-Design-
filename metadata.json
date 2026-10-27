@@ -1,0 +1,6 @@
+{
+  "name": "Deaerator Process Calculation & Sizing Tool",
+  "description": "Comprehensive engineering calculation and sizing tool for tray-type, spray-type, and combined deaerators with IAPWS-IF97 steam properties, mass/energy balance, internals, storage vessel, nozzles, ASME code checks, and Excel workbook export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
